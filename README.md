@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 🌱 Currently learning **Playwright**
 
+🌱 Currently learning **Gen AI, NEXT Gen SDET**
+
 💬 Ask me about **Test Automation, Selenium, CI /CD, Github Actions, Git, Playwright, RestAssured , Postman**
 
 🎓 Certifications: **ISTQB**
